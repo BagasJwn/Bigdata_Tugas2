@@ -12,7 +12,7 @@
     - execute
 
     hasil:
-    ![workflow](images/DB/hasil 1.png)
+    ![hasil](images/DB/hasil 1.png)
 
     ## 02_DB_InDB_Processing_Exercise
 
@@ -44,7 +44,7 @@
         * -tambahkan DB Query untuk melimit hasil query sejumlah 10 baris
         * -tambahkan DB Reader untuk membaca hasil
 hasil:
-    ![workflow](images/DB/hasil 2.png)
+    ![hasil](images/DB/hasil 2.png)
 
     ## 03_DB_Modelling_Exercise
 
@@ -63,7 +63,7 @@ hasil:
     - execute
 
     hasil:
-    ![workflow](images/DB/hasil 3.png)
+    ![hasil](images/DB/hasil 3.png)
 
     ## 04_DB_WritingToDB_Exercise
 
@@ -80,9 +80,9 @@ hasil:
         * -atur ss13pme_original sebagai tujuan
 
    hasil akhir:
-    ![workflow](images/DB/hasil 4.png)
+    ![hasil](images/DB/hasil 4.png)
     Hasil tabel model pada DBeaver:
-    ![workflow](images/DB/final hasil db.png)
+    ![hasil](images/DB/final hasil db.png)
 
 
 * Hadoop
