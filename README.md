@@ -1,4 +1,4 @@
-# Bigdata_Tugas2
+# BigData-Tugas-2
 
 * DB
 
@@ -11,8 +11,8 @@
     - Tambahkan DB Reader
     - execute
 
-    final workflow:
-    ![workflow](images/db/1_finalworkflow.png)
+    hasil:
+    ![workflow](images/DB/hasil 1.png)
 
     ## 02_DB_InDB_Processing_Exercise
 
@@ -43,9 +43,8 @@
         * -atur sort berdasarkan agep secara descending
         * -tambahkan DB Query untuk melimit hasil query sejumlah 10 baris
         * -tambahkan DB Reader untuk membaca hasil
-
-    final workflow:
-    ![workflow](images/db/2_finalworkflow.png)
+hasil:
+    ![workflow](images/DB/hasil 2.png)
 
     ## 03_DB_Modelling_Exercise
 
@@ -63,8 +62,8 @@
         * -atur DB Reader dan DT Learner sebagai input
     - execute
 
-    final workflow:
-    ![workflow](images/db/3_finalworkflow.png)
+    hasil:
+    ![workflow](images/DB/hasil 3.png)
 
     ## 04_DB_WritingToDB_Exercise
 
@@ -80,10 +79,10 @@
    - Tambahkan DB Conncetion Table Writer
         * -atur ss13pme_original sebagai tujuan
 
-    Workflow akhir:
-    ![workflow](images/db/4_finalworkflow.png)
+   hasil akhir:
+    ![workflow](images/DB/hasil 4.png)
     Hasil tabel model pada DBeaver:
-    ![workflow](images/db/4_hasilDB.png)
+    ![workflow](images/DB/final hasil db.png)
 
 
 * Hadoop
