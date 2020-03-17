@@ -12,7 +12,8 @@
     - execute
 
     hasil:
-    ![hasil](images/DB/hasil 1.png)
+    ![hasil 1](https://user-images.githubusercontent.com/36811798/76896960-6cb70080-68c5-11ea-9fc8-400e5ccf4607.png)
+
 
     ## 02_DB_InDB_Processing_Exercise
 
@@ -43,8 +44,9 @@
         * -atur sort berdasarkan agep secara descending
         * -tambahkan DB Query untuk melimit hasil query sejumlah 10 baris
         * -tambahkan DB Reader untuk membaca hasil
-hasil:
-    ![hasil](images/DB/hasil 2.png)
+     hasil:
+     ![hasil 2](https://user-images.githubusercontent.com/36811798/76897035-8f491980-68c5-11ea-81fe-5365678f9185.png)
+
 
     ## 03_DB_Modelling_Exercise
 
@@ -63,7 +65,8 @@ hasil:
     - execute
 
     hasil:
-    ![hasil](images/DB/hasil 3.png)
+    ![hasil 3](https://user-images.githubusercontent.com/36811798/76897082-a6880700-68c5-11ea-82c3-e7e5d60e107c.png)
+
 
     ## 04_DB_WritingToDB_Exercise
 
@@ -80,9 +83,11 @@ hasil:
         * -atur ss13pme_original sebagai tujuan
 
    hasil akhir:
-    ![hasil](images/DB/hasil 4.png)
+    ![hasil 4](https://user-images.githubusercontent.com/36811798/76897096-b0116f00-68c5-11ea-9108-efcd79784a3e.png)
+
     Hasil tabel model pada DBeaver:
-    ![hasil](images/DB/final hasil db.png)
+    ![final hasil db](https://user-images.githubusercontent.com/36811798/76896895-4c874180-68c5-11ea-940b-df4ef320cbfd.png)
+
 
 
 * Hadoop
